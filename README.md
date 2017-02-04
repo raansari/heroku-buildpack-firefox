@@ -1,3 +1,4 @@
+THIS BUILDPACK DOESN'T WORK.I AM NOT WORKING ON IT ANYMORE.PULL REQUESTS ARE INVITED.
 Heroku buildpack: Firefox
 =======================
 
